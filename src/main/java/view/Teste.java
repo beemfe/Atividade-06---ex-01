@@ -1,4 +1,4 @@
-public class Teste {  
+public class Teste { 
     public static void main(String[] args) {  
         Veiculo passeio1 = new VeiculoPasseio(1000);  
         Veiculo passeio2 = new VeiculoPasseio(1200);  
